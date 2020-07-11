@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+C:\Users\97252\source\repos\my_dll\my_dll\dllmain.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\97252\source\repos\my_dll\my_dll\dllmain.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\97252\source\repos\my_dll\my_dll\dllmain.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\97252\source\repos\my_dll\my_dll\dllmain.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\97252\source\repos\my_dll\my_dll\dllmain.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\97252\source\repos\my_dll\my_dll\dllmain.cpp(48,20): warning C4309: '=': truncation of constant value
+     Creating library C:\Users\97252\source\repos\injector\Debug\my_dll.lib and object C:\Users\97252\source\repos\injector\Debug\my_dll.exp
+  my_dll.vcxproj -> C:\Users\97252\source\repos\injector\Debug\my_dll.dll
